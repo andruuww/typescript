@@ -1,1 +1,3 @@
-const test: number = 4;
+const test = 4;
+
+console.log(test);
